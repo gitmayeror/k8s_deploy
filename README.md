@@ -1,7 +1,7 @@
 
 **kubelet_install.sh** for All nodes include master and worker nodes.
 
-**master_install.sh ** only for master node.
+**master_install.sh** only for master node.
 
 for spec version:
 
